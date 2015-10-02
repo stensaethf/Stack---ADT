@@ -1,0 +1,17 @@
+main() {
+	//this is a program
+	//that should not 
+	//pass at first (because it has mismatched
+	//brackets and such, but only within comments.
+	// but it should pass once comments are ignored
+	foobar();
+}
+
+foobar() {
+	robot();
+}
+
+robot() {
+	 // This is the comment that messes everything up. { [ )
+	// so there
+}

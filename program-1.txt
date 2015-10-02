@@ -1,0 +1,18 @@
+main() {
+	// simple test program
+	// if you write the commments properly,
+	first_method();
+	// status message window
+	// Kind of
+	second_method();
+	// huh?
+}
+
+first_method() {
+	// you can tell a little story
+	// within the simulator's
+}
+
+second_method() {
+	// neat,
+}

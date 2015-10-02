@@ -1,0 +1,43 @@
+main() {
+	//in this bogus "programming" language,
+	// each line takes 1 tick to execute.
+	// thus many lines means longer 
+	// methods
+	int[] array = new int[6];
+	f2();
+	// which isn't really the case...
+	f3();
+}
+
+f2() {
+	f3();
+	f4();
+	f4();
+}
+
+f3() {
+	// short method
+}
+
+f4() {
+	// also
+	f5();
+	// a short method
+}
+
+f5() {
+	//I'm 
+	//making 
+	// this
+	// method
+	// take
+	// a
+	// really
+	// long
+	// time
+	// to
+	// execute
+	// so
+	// there!
+	you don't actually need // for comments, either.
+}
